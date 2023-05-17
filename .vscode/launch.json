@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemospringbootRegistrationformApplication<demospringboot-registrationform>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.app.demospringbootregistrationform.DemospringbootRegistrationformApplication",
+            "projectName": "demospringboot-registrationform",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
